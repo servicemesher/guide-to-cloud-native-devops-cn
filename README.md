@@ -15,13 +15,13 @@ The New Stack Guide to Cloud Native DevOps in Chinese Simplified
 
 贡献者
 
-01 - 用云原生的方式实施 DevOps
+[01 - 用云原生的方式实施 DevOps - 顾宇(wizardbyron)](01-doing-devops-the-cloud-native-way.md)
 
 02 - 云原生 DevOps 的角色和责任
 
 03 - 云原生 DevOps 带来的安全和网络议题
 
-CloudBees: 用 Jenkins X 实施云原生 DevOps 
+[CloudBees: 用 Jenkins X 实施云原生 DevOps - 孙海洲(haiker2011)](cloudbees-cloud-native-devops-with-jenkins-x.md)
 
 参考 
 
@@ -57,8 +57,11 @@ KubeCon + CloudNativeCon: CI/CD 的治理和标准化
 
 # 翻译贡献者
 
-顾宇: https://github.com/wizardbyron
+顾宇(wizardbyron): https://github.com/wizardbyron
+
+孙海洲(haiker2011):  https://github.com/haiker2011
 
 
+# 声明
 
 本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">知识共享署名-禁止演绎 4.0 国际许可协议</a>进行许可。
